@@ -1,0 +1,2 @@
+# CrazyJapanceWednesdayShooter
+ Test project
